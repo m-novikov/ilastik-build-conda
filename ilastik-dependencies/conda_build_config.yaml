@@ -22,7 +22,7 @@ vigra:
   - 1.11
 pytest:
   - 3.10
-pillow: # [fix macOS build, broken jpeg=9b]
+pillow: # fix macOS build, broken jpeg=9b
   - 5.3.0
 
 pin_run_as_build:
